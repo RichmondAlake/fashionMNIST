@@ -16,9 +16,9 @@
 | 9 | Ankle boot |
 
 
-![](/img/fashion-mnist-sprite.png)
+![](/images/fashion-mnist-sprite.png)
 
-<img src="img/embedding.gif" width="100%">
+<img src="images/embedding.gif" width="100%">
 
 This project creates a convolutional neural network that is trained and evaluated on the provided FashionMNIST dataset.
 
